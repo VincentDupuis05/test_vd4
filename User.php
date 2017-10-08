@@ -3,7 +3,7 @@
 namespace App;
 
 // Le commentaire 1
-// nouv comment vd 106_01   + 108_01  + 108_02
+// nouv comment vd 106_01   + 108_01  + 108_02  !!new def
 
 // nouv comment vd 106_02
 
